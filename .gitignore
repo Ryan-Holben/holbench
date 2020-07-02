@@ -1,0 +1,4 @@
+.DS_Store
+bazel-*
+.vscode
+bench/bench_results.csv
